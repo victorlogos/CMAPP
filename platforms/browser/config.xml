@@ -6,11 +6,11 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>CMAPP</name>
+    <name>CamboMarket</name>
     <description>
         We make Cambodian Web World Better.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="info@smartmanagementsystems.com" href="smartmanagementsystems.com">
         Smart Management Systems Team
     </author>
     <content src="index.html" />
