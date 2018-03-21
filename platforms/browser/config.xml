@@ -8,10 +8,10 @@
     </feature>
     <name>CMAPP</name>
     <description>
-        Hello World sample application that responds to the deviceready event.
+        We make Cambodian Web World Better.
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+        Smart Management Systems Team
     </author>
     <content src="index.html" />
     <access origin="*" />
