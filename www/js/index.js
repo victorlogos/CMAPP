@@ -7,9 +7,8 @@ function onDeviceReady(){
 window.onload = function openBrowser() {
    var url = 'https://www.cambomarket.com/';
    var target = '_blank';
-   var options = "location = 'no';
-   var zoom = 'no';
-   var ref = cordova.InAppBrowser.open(url, target, options, zoom);
+   var options = 'location = no','zoom=no';
+   var ref = cordova.InAppBrowser.open(url, target, options);
    
    ref.addEventListener('loadstart', loadstartCallback);
    ref.addEventListener('loadstop', loadstopCallback);
